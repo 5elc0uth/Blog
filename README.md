@@ -2,7 +2,7 @@
 
 ![HistObloG Banner](./path/to/banner-image.png)
 
-Visit the deployed site: [HistObloG](https://your-deployment-link.com)
+Visit the deployed site: [HistObloG](https://5elc0uth.github.io/Blog/)
 
 HistObloG is a journey through the annals of history, inviting readers to explore the Seven Wonders of the World and much more. From ancient architectures to legendary tales, HistObloG serves as a digital compendium for history enthusiasts and curious minds alike.
 
